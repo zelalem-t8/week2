@@ -10,3 +10,4 @@ tqdm>=4.62.0
 pytest>=7.0.0
 vaderSentiment>=3.3.2
 scikit-learn>=0.24.0
+sqlalchemy>=1.4.0
